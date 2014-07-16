@@ -1,0 +1,13 @@
+{
+  "name": "generator-rpc-test",
+  "version": "1.0.0",
+  "description": "Generator RPC test",
+  "main": "main.js",
+  "generator-core-version": "~3.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe-photoshop/generator-rpc-test"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
